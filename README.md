@@ -10,3 +10,4 @@ To check origin run command: git remote -v
 <h4>Branches</h4>
 Branches help developers to work independantly on same project without conflict.
 <br>Check current branch: git branch
+<br> Rename current branch: git branch -M main
